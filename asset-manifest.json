@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afd7172b.chunk.css",
+    "main.js": "/static/js/main.f1641277.chunk.js",
+    "main.js.map": "/static/js/main.f1641277.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3c5000ae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3c5000ae.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.b3883240.chunk.js": "/static/js/2.b3883240.chunk.js",
+    "static/js/2.b3883240.chunk.js.map": "/static/js/2.b3883240.chunk.js.map",
+    "static/js/3.3603e57c.chunk.js": "/static/js/3.3603e57c.chunk.js",
+    "static/js/3.3603e57c.chunk.js.map": "/static/js/3.3603e57c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.b3883240.chunk.js.LICENSE.txt": "/static/js/2.b3883240.chunk.js.LICENSE.txt",
+    "static/media/bethel.52efaaf9.png": "/static/media/bethel.52efaaf9.png",
+    "static/media/img5.11d846f2.png": "/static/media/img5.11d846f2.png",
+    "static/media/img8.facf7449.png": "/static/media/img8.facf7449.png",
+    "static/media/verify.5ab5ac26.png": "/static/media/verify.5ab5ac26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c5000ae.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.b3883240.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.f1641277.chunk.js"
+  ]
+}
